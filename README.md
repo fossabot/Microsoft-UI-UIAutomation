@@ -1,4 +1,5 @@
 [![Build Status](https://dev.azure.com/ms/Microsoft-UI-UIAutomation/_apis/build/status/Microsoft-UI-UIAutomation%20Desktop%20CI?branchName=main)](https://dev.azure.com/ms/Microsoft-UI-UIAutomation/_build/latest?definitionId=378&branchName=main)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FMicrosoft-UI-UIAutomation.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FMicrosoft-UI-UIAutomation?ref=badge_shield)
 
 # Windows UIAutomation platform utility libraries
 
@@ -88,3 +89,7 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FMicrosoft-UI-UIAutomation.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FMicrosoft-UI-UIAutomation?ref=badge_large)
